@@ -17,6 +17,9 @@
 /.next/
 /.vinext/
 /out/
+/dist-tencent/
+/tencent-deploy.zip
+/site-package.tar.gz
 
 # misc
 .DS_Store
