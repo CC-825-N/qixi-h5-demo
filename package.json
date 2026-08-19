@@ -8,6 +8,7 @@
   "scripts": {
     "dev": "vinext dev",
     "build": "vinext build",
+    "build:cloudflare": "vite build --config vite.tencent.config.ts",
     "build:tencent": "vite build --config vite.tencent.config.ts",
     "preview:tencent": "vite preview --config vite.tencent.config.ts",
     "start": "vinext start",
